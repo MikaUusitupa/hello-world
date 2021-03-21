@@ -1,3 +1,2 @@
 # hello-world
-Tutustuminen
-Tutustunpa tässä GITHubiin ensimmäistä kertaa
+Tässäpä laitan vähän päivitettävää tietoa
